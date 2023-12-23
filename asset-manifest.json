@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/bluemole/static/js/main.d6fa12f0.js",
+    "static/media/video.mp4": "/bluemole/static/media/video.730be0482b19307e3253.mp4",
+    "static/media/bluemole.png": "/bluemole/static/media/bluemole.404da592cf02a97c65ec.png",
+    "index.html": "/bluemole/index.html",
+    "main.d6fa12f0.js.map": "/bluemole/static/js/main.d6fa12f0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d6fa12f0.js"
+  ]
+}
